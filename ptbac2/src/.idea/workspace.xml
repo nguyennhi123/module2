@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="093c970f-bf7b-4eca-a623-2c76db025bf2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bd3e949f-c008-419f-a940-e53c4b2253ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai3/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -33,48 +30,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ptbac2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ptbac2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ptbac2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai3" type="462c0819:PsiDirectoryNode" />
-              <item name="rectange" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ptbac2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai3" type="462c0819:PsiDirectoryNode" />
-              <item name="rectange" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ptbac2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -95,17 +59,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="093c970f-bf7b-4eca-a623-2c76db025bf2" name="Default Changelist" comment="" />
-      <created>1559789387775</created>
+      <changelist id="bd3e949f-c008-419f-a940-e53c4b2253ce" name="Default Changelist" comment="" />
+      <created>1559789904543</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559789387775</updated>
-      <workItem from="1559789389438" duration="132000" />
+      <updated>1559789904543</updated>
+      <workItem from="1559789905651" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132000" />
+    <option name="totallyTimeSpent" value="14000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
