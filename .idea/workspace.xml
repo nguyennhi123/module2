@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf8b43a-e951-457c-9a4b-e49a407ee4f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newRectange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rectange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ConvertTemperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/LinearEquationResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/arrayMax2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/arrayPush.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/bmi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/daoNguoc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/dayInmonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/deleteArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/greateCommonFactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/isLeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/isPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/maxArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/minArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/money.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/passExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/poolingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/prime20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/printMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/stringCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/sumColum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai3/rectange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai3/rectange/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/area.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrayPush.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -135,18 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lop" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Module2" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,12 +131,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lop" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Module2" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -187,7 +168,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.newRectange">
+  <component name="RunManager" selected="Application.arrayPush">
+    <configuration name="arrayPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayPush" />
+      <module name="Module2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="newRectange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="newRectange" />
       <module name="Module2" />
@@ -204,6 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayPush" />
         <item itemvalue="Application.newRectange" />
         <item itemvalue="Application.prime" />
       </list>
@@ -221,16 +210,19 @@
       <updated>1559767910587</updated>
       <workItem from="1559767913056" duration="5068000" />
       <workItem from="1559783317178" duration="443000" />
+      <workItem from="1559784697042" duration="36000" />
+      <workItem from="1559784978339" duration="250000" />
+      <workItem from="1559785334597" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5511000" />
+    <option name="totallyTimeSpent" value="5893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,11 +282,11 @@
         <state relative-caret-position="170">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
             <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -306,13 +298,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Module2.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/area.java">
+    <entry file="file://$PROJECT_DIR$/src/arrayPush.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="391">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
         </state>
       </provider>
     </entry>
