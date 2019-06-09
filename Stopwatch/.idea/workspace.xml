@@ -1,43 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89980d1a-3375-48c4-8fc0-6691e460cc43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../circle/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../circle/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ke thua/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ke thua/src/Rectange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ke thua/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ke thua/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lop point/src/point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sesion3/src/aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ptbac2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ptbac2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sesion3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sesion3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="093f31cd-bd21-471d-8f18-393c7edf8f29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../circle/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../circle/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ke thua/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ke thua/src/Rectange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ke thua/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ke thua/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lop point/src/point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion3/src/aaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ptbac2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ptbac2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sesion3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/src/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -51,26 +36,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../circle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -91,25 +65,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89980d1a-3375-48c4-8fc0-6691e460cc43" name="Default Changelist" comment="" />
-      <created>1559784473835</created>
+      <changelist id="093f31cd-bd21-471d-8f18-393c7edf8f29" name="Default Changelist" comment="" />
+      <created>1559795430948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559784473835</updated>
-      <workItem from="1559784475052" duration="27000" />
-      <workItem from="1560093120431" duration="28000" />
-      <workItem from="1560093172848" duration="44000" />
-      <workItem from="1560093298230" duration="82000" />
+      <updated>1559795430948</updated>
+      <workItem from="1559795432248" duration="87000" />
+      <workItem from="1560093239501" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181000" />
+    <option name="totallyTimeSpent" value="108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -141,14 +113,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
