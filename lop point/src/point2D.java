@@ -31,7 +31,7 @@ public class point2D {
         this.y = y;
     }
     public float[] getXY() {
-        float[]arr ={x,y};
+        float[][]arr ={x,y};
         return arr;
     }
 
