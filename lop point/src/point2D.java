@@ -22,17 +22,23 @@ public class point2D {
     public void setX(float x) {
         this.x = x;
     }
-
     public void setY(float y) {
         this.y = y;
     }
+    float[] arr = new float[2];
     public  void  setXY(float x,float y){
-        this.x = x;
-        this.y = y;
+        arr[0] = x;
+        arr[1] = y;
     }
-    public float[] getXY() {
-        float[][]arr ={x,y};
-        return arr;
+
+
+    String getXY() {
+        String arr1 = "";
+        for(int i = 0; i < arr.length;i++){
+            arr1 +=arr[i]+" ";
+
+        }
+        return arr1;
     }
 
     @Override
@@ -44,6 +50,8 @@ public class point2D {
        point2D point = new point2D();
         System.out.println(point);
         point = new point2D(2,3);
+        point.setXY(2,3);
         System.out.println(point);
+
     }
 }
