@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="timezone:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="timezone.war">
+      <element id="artifact" artifact-name="timezone:war exploded" />
+    </root>
+  </artifact>
+</component>
