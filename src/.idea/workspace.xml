@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfa1442-b3fb-426c-b8d8-79f91604d7ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../circle/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../circle/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ke thua/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ke thua/src/Rectange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ke thua/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ke thua/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lop point/src/point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sesion3/src/aaa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ptbac2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ptbac2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sesion3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sesion3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/bai tap 1/src/Mylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/thuc hanh 1/src/Mylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/thuc hanh 2/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 5/bai tap 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai 5/bai tap 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop point2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lop point2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,31 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/area.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayPush.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daoNguoc.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -40,7 +63,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -57,12 +79,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai 6/bai tap 1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -92,16 +116,17 @@
       <workItem from="1560093148936" duration="23000" />
       <workItem from="1560093217994" duration="21000" />
       <workItem from="1560093284148" duration="13000" />
+      <workItem from="1560380211499" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81000" />
+    <option name="totallyTimeSpent" value="240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -133,5 +158,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/area.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayPush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoNguoc.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

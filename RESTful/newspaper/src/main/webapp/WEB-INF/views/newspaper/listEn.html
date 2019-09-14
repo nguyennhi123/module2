@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/create-newspaper">Create new newspaper</a>
+<a href="/newspapersVi">newspapersVi list</a>
+<h1>newspaper</h1>
+<form>
+    Search by tittle:
+    <input name="sE" type="text"/>
+    <input type="submit" value="Search"/>
+</form><br/>
+<table border="1">
+    <tr>
+        <th>Tittle</th>
+        <th>Content</th>
+        <th>Category</th>
+        <th>create</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    <th:block th:each="newspaper : ${newspapers}">
+        <tr>
+            <td th:text="${newspaper.tittleEn}"></td>
+            <td th:text="${newspaper.contentEn}"></td>
+            <td th:text="${newspaper.category.nameEn}"></td>
+            <td th:text="${newspaper.create}"></td>
+            <td><a th:href="@{/edit-newspaper/__${newspaper.id}__ }">Edit</a></td>
+            <td><a th:href="@{/delete-newspaper/__${newspaper.id}__ }">Delete</a></td>
+        </tr>
+
+    </th:block>
+</table>
+<div>
+    <a th:href="@{'/newspapers'(page=${newspapers.number - 1})}" th:if="${newspapers.hasPrevious()}">Previous</a>
+    <span th:text="${newspapers.number + 1}"></span>/<span th:text="${newspapers.totalPages}"></span>
+    <a th:href="@{'/newspapers'(page=${newspapers.number + 1})}" th:if="${newspapers.hasNext()}">Next</a>
+</div>
+</body>
+</html>

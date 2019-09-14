@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>SB Admin - Dashboard</title>
+
+    <!-- Custom fonts for this template-->
+    <link th:href="@{/content/vendor/fontawesome-free/css/all.min.css}" rel="stylesheet" type="text/css">
+
+    <!-- Page level plugin CSS-->
+    <link th:href="@{/content/vendor/datatables/dataTables.bootstrap4.css}" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link th:href="@{/content/css/sb-admin.css}" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+<nav class="navbar navbar-expand navbar-dark bg-dark static-top">
+
+    <a class="navbar-brand mr-1" href="index.html">Start Bootstrap</a>
+
+    <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <!-- Navbar Search -->
+    <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
+    </form>
+
+    <!-- Navbar -->
+
+</nav>
+
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <ul class="sidebar navbar-nav">
+        <li class="nav-item active">
+            <a class="nav-link" href="/employees">
+                <i class="fas fa-fw fa-tachometer-alt"></i>
+                <span>employees</span>
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link" href="/error">
+                <i class="fas fa-fw fa-table"></i>
+                <span>404</span></a>
+        </li>
+    </ul>
+    <div id="content-wrapper">
+
+        <div class="container-fluid">
+
+            <!-- Breadcrumbs-->
+
+
+
+            <!-- Create category -->
+            <div class="card mb-3">
+                <div class="card-header">
+                    <i class="fas fa-table"></i>
+                    <a href="/customer">customer list</a></div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <h1>Create customer</h1>
+                            <th:block th:if="${message}">
+                                <p th:text="${message}"></p>
+                            </th:block>
+                            <form th:action="@{/create-customer}" th:object="${customer}" method="post">
+
+                                <tr>
+                                    <td>name:</td>
+                                    <td><input class="form-control" type="text" th:field="*{name}"/></td>
+                                    <td th:if="${#fields.hasErrors('name')}" th:errors="*{name}">name Error</td>
+                                </tr>
+                                <tr>
+                                    <td>age:</td>
+                                    <td><input class="form-control" type="text" th:field="*{age}"/></td>
+                                    <td th:if="${#fields.hasErrors('age')}" th:errors="*{age}">age Error</td>
+                                </tr>
+                                <tr>
+                                    <td>address:</td>
+                                    <td><input class="form-control" type="text" th:field="*{address}"/></td>
+                                    <td th:if="${#fields.hasErrors('address')}" th:errors="*{address}">phoneNumber Error</td>
+                                </tr>
+                                <tr>
+                                    <td>email:</td>
+                                    <td><input class="form-control" type="text" th:field="*{email}"/></td>
+                                    <td th:if="${#fields.hasErrors('email')}" th:errors="*{email}">email Error</td>
+                                    <td><th:block th:if="${message1}">
+                                        <p th:text="${message1}"></p>
+                                    </th:block></td>
+                                </tr>
+                                <tr>
+                                    <td>IdCard:</td>
+                                    <td><input class="form-control" type="text" th:field="*{idCard}"/></td>
+                                    <td th:if="${#fields.hasErrors('idCard')}" th:errors="*{idCard}">idCard Error</td>
+                                    <td><th:block th:if="${message1}">
+                                        <p th:text="${message1}"></p>
+                                    </th:block></td>
+                                </tr>
+                                <tr>
+                                    <td>job:</td>
+                                    <td><input class="form-control" type="text" th:field="*{job}"/></td>
+                                    <td th:if="${#fields.hasErrors('job')}" th:errors="*{job}">job Error</td>
+                                </tr>
+                                <tr>
+                                    <td>province:</td>
+                                    <td>
+                                        <select th:field="*{province}">
+                                            <option value="Quang Tri">Quang Tri</option>
+                                            <option value="Quang Nam">Quang Nam</option>
+                                            <option value="Quang Ngai">Quang Ngai</option>
+                                            <option value="Quang Ninh">Quang Ninh</option>
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td><input type="submit" class="btn-danger" value="Create customer"></td>
+                                </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer small text-muted">Updated yesterday at 11:59 AM</div>
+        </div>
+
+    </div>
+    <!-- /.container-fluid -->
+
+    <!-- Sticky Footer -->
+    <footer class="sticky-footer">
+        <div class="container my-auto">
+            <div class="copyright text-center my-auto">
+                <span>Tuyet Nhi @</span>
+            </div>
+        </div>
+    </footer>
+
+</div>
+<!-- /.content-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+
+<!-- Scroll to Top Button-->
+<a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+</a>
+
+<!-- Logout Modal-->
+<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                <a class="btn btn-primary" href="login.html">Logout</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap core JavaScript-->
+<script th:href="@{/content/vendor/jquery/jquery.min.js}"></script>
+<script th:href="@{/content/vendor/bootstrap/js/bootstrap.bundle.min.js}"></script>
+
+<!-- Core plugin JavaScript-->
+<script th:href="@{/content/vendor/jquery-easing/jquery.easing.min.js}"></script>
+
+<!-- Page level plugin JavaScript-->
+<script th:href="@{/content/vendor/chart.js/Chart.min.js}"></script>
+<script th:href="@{/content/datatables/jquery.dataTables.js}"></script>
+<script th:href="@{/content/vendor/datatables/dataTables.bootstrap4.js}"></script>
+
+<!-- Custom scripts for all pages-->
+<script th:href="@{/content/js/sb-admin.min.js}"></script>
+
+<!-- Demo scripts for this page-->
+<script th:href="@{/content/js/demo/datatables-demo.js}"></script>
+<script th:href="@{/content/js/demo/chart-area-demo.js}"></script>
+
+</body>
+
+</html>

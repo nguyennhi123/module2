@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e46c02-b5e2-4abe-b7f1-30ca9fcb42fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/nhi_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/TimeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/modules/spring-email-validation_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validate/.idea/validate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/java/com/codegym/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../validatess/phone/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" afterDir="false" />
@@ -55,6 +58,8 @@
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh2/src/customersever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh2/src/customersever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ORM/blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ORM/spring-jpa-customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/spring-jpa-customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" afterDir="false" />
@@ -164,11 +169,52 @@
       <change beforePath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lop point/src/point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/src/point2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data binding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data binding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data binding/src/main/java/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data binding/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data binding/src/main/java/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Data binding/src/main/java/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data binding/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data binding/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data binding/src/main/webapp/WEB-INF/views/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Data binding/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Emailnhi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Emailnhi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringMVC" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../datetimemarven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../datetimemarven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/java/controller/MyFileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/java/controller/MyFileUploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/java/controller/MyUploadForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/java/controller/MyUploadForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/configs/spring-config-upload.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/configs/spring-config-upload.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/_menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/_menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadMultiFile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadMultiFile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadOneFile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadOneFile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/views/uploadResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../upload/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/.idea/thymeleaf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/thymeleaf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/AppConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -190,7 +236,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -203,7 +249,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="594">
               <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
             </state>
           </provider>
@@ -223,7 +269,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -232,11 +278,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controller/TimeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -266,6 +312,13 @@
       </list>
     </option>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
@@ -278,6 +331,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,6 +349,21 @@
               <item name="emailgrade" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="nhi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emailgrade" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nhi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emailgrade" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nhi" type="b2602c69:ProjectViewProjectNode" />
@@ -325,14 +394,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datetimemarven" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -442,51 +516,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563759344402</updated>
-      <workItem from="1563759346213" duration="2273000" />
+      <workItem from="1563759346213" duration="2843000" />
+      <workItem from="1563770801784" duration="605000" />
+      <workItem from="1563778507730" duration="2051000" />
+      <workItem from="1563784048554" duration="1766000" />
+      <workItem from="1563958446520" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2273000" />
+    <option name="totallyTimeSpent" value="7588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.329582" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.329582" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.329582" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.329582" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,8 +577,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -510,27 +591,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/controller/TimeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

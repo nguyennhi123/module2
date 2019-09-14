@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efef272e-85c7-495c-a85e-708c1266bad2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../counter/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/main/java/com/codegym/controller/MyCounterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/main/java/com/codegym/model/MyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../counter/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" afterDir="false" />
@@ -70,6 +60,8 @@
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/model/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" afterDir="false" />
@@ -295,8 +287,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="64">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#497#498#0" expanded="true" />
@@ -556,18 +548,18 @@
       <updated>1564195335269</updated>
       <workItem from="1564195336955" duration="1223000" />
       <workItem from="1564281634307" duration="1450000" />
-      <workItem from="1564353683731" duration="1600000" />
+      <workItem from="1564353683731" duration="3269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4273000" />
+    <option name="totallyTimeSpent" value="5942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -579,7 +571,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39871383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -609,28 +601,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java</url>
-          <line>17</line>
-          <properties class="com.codegym.controller.LoginController" method="setUpUserForm">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java</url>
-          <line>29</line>
-          <properties class="com.codegym.controller.LoginController" method="doLogin">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java</url>
           <line>62</line>
@@ -725,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="64">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#497#498#0" expanded="true" />

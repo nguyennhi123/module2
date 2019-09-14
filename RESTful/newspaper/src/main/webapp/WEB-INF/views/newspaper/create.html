@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Newspaper</title>
+</head>
+<body>
+<h1>Create Newspaper</h1>
+<p>
+    <a href="/newspapersEn">newspapersEn list</a>
+    <a href="/newspapersVi">newspapersVi list</a>
+</p>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+<form th:action="@{/create-newspaper}" th:object="${newspaper}" method="post">
+    <table>
+        <tr>
+            <td>TittleVi:</td>
+            <td><input type="text" th:field="*{tittleVi}"/></td>
+            <td th:if="${#fields.hasErrors('tittleVi')}" th:errors="*{tittleVi}">tittleVi Error</td>
+        </tr>
+        <tr>
+            <td>TittleEn:</td>
+            <td><input type="text" th:field="*{tittleEn}"/></td>
+            <td th:if="${#fields.hasErrors('tittleEn')}" th:errors="*{tittleEn}">tittleEn Error</td>
+        </tr>
+        <tr>
+            <td>ContentVi:</td>
+            <td><input type="text" th:field="*{contentVi}"/></td>
+            <td th:if="${#fields.hasErrors('contentVi')}" th:errors="*{contentVi}">contentVi Error</td>
+        </tr>
+        <tr>
+            <td>ContentEn:</td>
+            <td><input type="text" th:field="*{contentEn}"/></td>
+            <td th:if="${#fields.hasErrors('contentEn')}" th:errors="*{contentEn}">contentEn Error</td>
+        </tr>
+        <tr>
+            <td>CategoryEn:</td>
+            <td>
+                <select th:field="*{category}">
+                    <option th:each="p : ${categories}" th:value="${p.id}" th:text="${p.nameEn}"></option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>CategoryVi:</td>
+            <td>
+                <select th:field="*{category}">
+                    <option th:each="p : ${categories}" th:value="${p.id}" th:text="${p.nameVi}"></option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Create newspaper"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

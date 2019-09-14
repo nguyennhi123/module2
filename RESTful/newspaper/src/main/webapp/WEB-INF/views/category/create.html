@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="#{create.title}"></title>
+</head>
+<body>
+<h1 th:text="#{create.heading_newspaper}"></h1>
+<p>
+    <a href="/categories" th:text="#{province.list}"></a>
+</p>
+Language: <a href="?lang=en">English</a> | <a href="?lang=vi">Viet Nam</a>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+<form th:action="@{/create-category}" th:object="${category}" method="post">
+    <table>
+        <tr>
+            <td>NameEn:</td>
+            <td><input type="text" th:field="*{name}"/></td>
+            <td th:if="${#fields.hasErrors('nameEn')}" th:errors="*{name}">nameEn Error</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Create category"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

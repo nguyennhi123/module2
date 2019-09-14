@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48774e65-772c-4701-aad0-e3987724c0d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lop point/point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lop point/point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/bai tap 1/src/baitap/codegym/util/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/bai tap 1/src/baitap/codegym/util/MyAbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/bai tap 1/src/baitap/codegym/util/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai 6/bai tap 1/src/baitap/codegym/util/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 6/bai tap 1/src/Mylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 6/thuc hanh 1/src/Mylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai 6/thuc hanh 1/src/Mylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai 6/thuc hanh 2/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai 6/thuc hanh 2/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke thua/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop point2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lop point2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/point2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
               <folding>
                 <element signature="e#250#251#0" expanded="true" />
                 <element signature="e#274#275#0" expanded="true" />
@@ -32,8 +41,8 @@
                 <element signature="e#384#385#0" expanded="true" />
                 <element signature="e#416#417#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/point3D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="459">
               <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding>
                 <element signature="e#218#219#0" expanded="true" />
@@ -89,8 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,13 +114,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai 6/bai tap 1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -132,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Point2D1">
+  <component name="RunManager" selected="Application.point2D">
     <configuration name="Point2D1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point2D1" />
       <module name="lop point" />
@@ -156,8 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point2D1" />
         <item itemvalue="Application.point2D" />
+        <item itemvalue="Application.Point2D1" />
         <item itemvalue="Application.point3D" />
       </list>
     </recent_temporary>
@@ -179,16 +188,17 @@
       <workItem from="1560131483631" duration="235000" />
       <workItem from="1560150082933" duration="5048000" />
       <workItem from="1560203527248" duration="1392000" />
+      <workItem from="1560414433614" duration="1228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9961000" />
+    <option name="totallyTimeSpent" value="11189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,28 +232,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/point2D.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/point2D.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Point2D1.java" />
     <entry file="file://$PROJECT_DIR$/src/point3D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="459">
           <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
             <element signature="e#218#219#0" expanded="true" />
@@ -256,27 +249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Point2D1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/point2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
             <element signature="e#250#251#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
@@ -284,8 +260,8 @@
             <element signature="e#384#385#0" expanded="true" />
             <element signature="e#416#417#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
           </folding>
         </state>
       </provider>

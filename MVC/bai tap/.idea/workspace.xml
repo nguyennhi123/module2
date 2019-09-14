@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bai tap:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b48c176-0470-49f1-81c1-5b304ea51f70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/modules/nhi_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/WEB-INF/views/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/customer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/customer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/customer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/java/controller/MyFileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/java/controller/MyUploadForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/configs/spring-config-upload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/views/_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/views/uploadMultiFile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/views/uploadOneFile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/views/uploadResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring controller/upload/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/artifacts/thymeleaf_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/thymeleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/modules/nhi_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/java/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thymeleaf/customer/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap 2/src/entity/employers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap 2/src/entity/employers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap 2/web/Customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap 2/web/Customer/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap 2/web/Customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap 2/web/Customer/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap 2/web/Customer/error-404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap 2/web/Customer/error-404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai tap 2/web/Customer/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../bai tap 2/web/Customer/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Customer/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Customer/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/src/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/src/controller/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/src/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/src/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/src/jdbc/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/src/jdbc/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/web/customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/web/customer/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/web/customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/web/customer/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapMVC/web/customer/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapMVC/web/customer/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btthu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../btthu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btthu/src/jdbc/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../btthu/src/jdbc/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/connect/DBConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/connect/DBConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/controller/customerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/controller/customerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/web/Customer/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/web/Customer/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/artifacts/text_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/libraries/mysql_connector_java_8_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/libraries/taglibs_standard_impl_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/libraries/taglibs_standard_spec_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/controller/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/src/jdbc/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/web/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/web/customer/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text/web/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/com/codegym/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/com/codegym/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/com/codegym/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/com/codegym/service/CustomerSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/com/codegym/service/CustomerSevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2/src/customersever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh2/src/customersever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt1/src/controllers/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt1/src/controllers/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/views/convert.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/views/convert.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt1/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/views/convert.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/views/convert.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt2/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/btt/src/controller/Convertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/btt/src/controller/Convertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/btt/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/btt/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/.idea/artifacts/chuyen_doi_tien_te_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/.idea/artifacts/chuyen_doi_tien_te_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/src/controller/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/src/controller/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/chuyen doi tien te/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller/src/controller/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller/src/controller/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller2/src/controller/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller2/src/controller/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/controller2/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/src/controllers/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/th11/src/controller/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/th11/src/controller/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/th11/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/th11/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/th11/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/th11/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/.idea/artifacts/thuc_hanh_them_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/.idea/artifacts/thuc_hanh_them_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/src/controller/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/src/controller/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/src/controller/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/src/controller/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh them2/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/src/controllers/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/src/controllers/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/web/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/thuc hanh/web/WEB-INF/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/artifacts/tu_dien_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/artifacts/tu_dien_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/src/controller/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/src/controller/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/tu dien/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyAbstractList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyAbstractList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyAbstractList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyAbstractList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 2/src/baitap/codegym/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/thuc hanh 1/src/Mylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/thuc hanh 1/src/Mylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 6/thuc hanh 2/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/thuc hanh 2/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 7/bai tap/java-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 7/bai tap/java-cleancode-refactoring-exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 7/thuc hanh 1/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 7/thuc hanh 1/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 7/thuc hanh 2/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 7/thuc hanh 2/java-cleancode-refactoring-variable-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai11.2/baitap1/src/CalculateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai11.2/baitap1/src/CalculateServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai11.2/thuchanh/src/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai11.2/thuchanh/src/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai11.2/thuchanh3/src/ConverterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai11.2/thuchanh3/src/ConverterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai11.2/thuchanh4/src/SeachServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai11.2/thuchanh4/src/SeachServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai11/src/ServerTimeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai11/src/ServerTimeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/bt caculate/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bt jsp/bt caculate/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/bt caculate/src/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bt jsp/bt caculate/src/CalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/bt1.1/web/converter.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../bt jsp/bt1.1/web/converter.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/bt1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/th2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bt jsp/th2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bt jsp/th2/web/dictionary.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../bt jsp/th2/web/dictionary.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/src/main/java/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/src/main/java/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/web/WEB-INF/configs/spring-config-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/web/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/web/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../email/web/WEB-INF/views/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../email/web/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/emailcom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailcom/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/emailnew.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../emailnew/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ke thua/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ke thua/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ke thua/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ke thua/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lop point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lop point/out/production/lop point/Point2D1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lop point/src/point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/src/point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring controller/Emailnhi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/Emailnhi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring controller/SpringMVC" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/SpringMVC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring controller/datetimemarven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/datetimemarven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring controller/emailgrade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/emailgrade/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring controller/spring-email-validation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/spring-email-validation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdbc/DBConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entity/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="47" column="44" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/CustomerServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1574">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/Customer/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/artifacts/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/jdbc/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/entity/hhh.java" />
+        <option value="$PROJECT_DIR$/src/entity/Customer1.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/web/Customer/index.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/CustomerServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="314" />
+    <option name="y" value="5" />
+    <option name="width" value="770" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai tap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai tap" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegymBT\Module2\MVC\bai tap\.idea\artifacts" />
+      <recent name="D:\codegymBT\Module2\MVC\bai tap\web\WEB-INF" />
+      <recent name="D:\codegymBT\Module2\MVC\bai tap\web\Create" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="bai tap:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_42_bai_tap" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51011" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bai tap:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b48c176-0470-49f1-81c1-5b304ea51f70" name="Default Changelist" comment="" />
+      <created>1561499813384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561499813384</updated>
+      <workItem from="1561499815671" duration="36000" />
+      <workItem from="1561500056173" duration="1902000" />
+      <workItem from="1561502080787" duration="659000" />
+      <workItem from="1561502870520" duration="487000" />
+      <workItem from="1561503400211" duration="304000" />
+      <workItem from="1561503813929" duration="145000" />
+      <workItem from="1561504022849" duration="77000" />
+      <workItem from="1561504135515" duration="40000" />
+      <workItem from="1561504216443" duration="241000" />
+      <workItem from="1561504488796" duration="106000" />
+      <workItem from="1561504664302" duration="266000" />
+      <workItem from="1561504992057" duration="105000" />
+      <workItem from="1561505125427" duration="819000" />
+      <workItem from="1561505960306" duration="320000" />
+      <workItem from="1561506447600" duration="505000" />
+      <workItem from="1561507026313" duration="23000" />
+      <workItem from="1561511250821" duration="74000" />
+      <workItem from="1561600045943" duration="442000" />
+      <workItem from="1561674882119" duration="5745000" />
+      <workItem from="1561684266301" duration="6115000" />
+      <workItem from="1561691744428" duration="1600000" />
+      <workItem from="1561693418518" duration="54000" />
+      <workItem from="1561693556230" duration="151000" />
+      <workItem from="1561693776090" duration="123000" />
+      <workItem from="1561693936071" duration="359000" />
+      <workItem from="1561694367474" duration="323000" />
+      <workItem from="1561694924790" duration="234000" />
+      <workItem from="1561695214201" duration="433000" />
+      <workItem from="1561695766814" duration="309000" />
+      <workItem from="1561696372279" duration="274000" />
+      <workItem from="1561696677358" duration="1276000" />
+      <workItem from="1561704197417" duration="653000" />
+      <workItem from="1561704928652" duration="740000" />
+      <workItem from="1561705728392" duration="147000" />
+      <workItem from="1561705922518" duration="536000" />
+      <workItem from="1561706557979" duration="403000" />
+      <workItem from="1561706995418" duration="63000" />
+      <workItem from="1561707112613" duration="240000" />
+      <workItem from="1563179056392" duration="28000" />
+      <workItem from="1563838515688" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26469000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45980707" visible="true" weight="0.19591528" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5401929" side_tool="true" visible="true" weight="0.19591528" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/baitap/com/entity/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/baitap/com/entity.kt" />
+    <entry file="file://$PROJECT_DIR$/src/entity/hhh.java" />
+    <entry file="file://$PROJECT_DIR$/src/entity/Customer1.java" />
+    <entry file="file://$PROJECT_DIR$/src/jdbc/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/CustomerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1574">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Customer/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>bai tap:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bai tap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

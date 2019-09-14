@@ -14,7 +14,7 @@
 <body>
 <h3>Welcome, Enter The Employee Details</h3>
 <%--@elvariable id="employee" type="java"--%>
-<form:form method="POST" action="info" modelAttribute="employee">
+<form:form method="POST" action="info" modelAttribute="create">
     <table>
         <tr>
             <td><form:label path="id">Employee ID: </form:label></td>

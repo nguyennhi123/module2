@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>View category</title>
+</head>
+<body>
+<h1>View category: <span th:text="${category.nameVi}" ></span></h1>
+<a href="/categories">category list</a>
+<table border="1">
+    <tr>
+        <th>Tittle</th>
+        <th>Content</th>
+    </tr>
+    <th:block th:each="newspapers : ${newspaper}">
+        <tr>
+            <td th:text="${newspapers.tittleVi}"></td>
+            <td th:text="${newspapers.contentVi}"></td>
+        </tr>
+    </th:block>
+</table>
+</body>
+</html>

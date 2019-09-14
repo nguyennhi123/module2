@@ -7,17 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7082b58b-9411-49b6-9695-d58d2a53af61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../emailgrade/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/.idea/modules/nhi_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/src/main/java/controller/TimeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emailgrade/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/modules/spring-email-validation_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upload/src/main/java/controller/MyFileUploadController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" afterDir="false" />
@@ -172,6 +162,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringMVC" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../datetimemarven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../datetimemarven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emailgrade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emailgrade/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -329,7 +320,7 @@
               <item name="Emailnhi" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Emailnhi" type="b2602c69:ProjectViewProjectNode" />
@@ -347,7 +338,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web-Shop-Thoi-Trang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../emailgrade" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -454,16 +445,15 @@
       <updated>1563683476385</updated>
       <workItem from="1563683477719" duration="846000" />
       <workItem from="1563745695082" duration="5501000" />
-      <workItem from="1563757780952" duration="1693000" />
+      <workItem from="1563757780952" duration="2966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8040000" />
+    <option name="totallyTimeSpent" value="9313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

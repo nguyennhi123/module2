@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete newspaper</title>
+</head>
+<body>
+<h1>Delete newspaper</h1>
+<h2>Are you sure?</h2>
+<p>
+    <a href="/newspapersEn">newspapersEn list</a>
+    <a href="/newspapersVi">newspapersVi list</a>
+</p>
+<form th:action="@{/delete-newspaper}" th:object="${newspaper}" method="post">
+    <input th:type="hidden" name="id" th:field="*{id}">
+    <table>
+        <tr>
+            <td>tittleEn:</td>
+            <td th:text="${newspaper.tittleEn}"></td>
+        </tr>
+        <tr>
+            <td>tittleVi:</td>
+            <td th:text="${newspaper.tittleVi}"></td>
+        </tr>
+        <tr>
+            <td>contentEn:</td>
+            <td th:text="${newspaper.contentEn}"></td>
+        </tr>
+        <tr>
+            <td>contentVi:</td>
+            <td th:text="${newspaper.contentVi}"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Delete newspaper"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

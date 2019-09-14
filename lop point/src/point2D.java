@@ -1,5 +1,3 @@
-import java.awt.geom.Point2D;
-
 public class point2D {
     private float x = 0.0f;
     private float y = 0.0f;

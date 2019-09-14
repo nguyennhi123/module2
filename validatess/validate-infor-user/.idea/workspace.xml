@@ -2,11 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd828083-7ce4-43cf-b471-989cf888a21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../form/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../form/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../form/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../form/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../form/src/main/webapp/WEB-INF/views/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/configuration/ApplicationConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/configuration/CustomSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/configuration/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/configuration/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/java/com/codegym/controller/SercurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/webapp/WEB-INF/views/accessDenied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/webapp/WEB-INF/views/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/webapp/WEB-INF/views/dba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bao mat ung dung web/role/src/main/webapp/WEB-INF/views/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/controller/DashBoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/reponse/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/java/com/codegym/request/Credential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/resources/message_haw.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/webapp/WEB-INF/views/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/blog/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/reponse/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/java/com/codegym/request/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/resources/message_vi.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/webapp/WEB-INF/views/customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/customer/src/main/webapp/WEB-INF/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/controller/NewspaperController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/formatter/CategoryFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/model/Newspaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/repository/NewspaperRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/service/NewspaperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/java/com/codegym/service/impl/NewspaperServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/resources/message_vi.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/viewen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/category/viewvi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/newspaper/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/newspaper/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/newspaper/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/newspaper/listEn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../I18N/newspaper/src/main/webapp/WEB-INF/views/newspaper/listVi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/repository/impl/CustomerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/customer/src/main/java/com/codegym/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/controller/TheloaiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/model/Theloai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/model/Tintuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/repository/TheloaiRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/repository/TintucRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/service/TheloaiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/service/TintucService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/service/impl/TheloaiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/java/com/codegym/service/impl/TintucServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful/newspaper/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session/giohang/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session/giohang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session/giohang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session/giohang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi_C0419H1_NguyenThiTuyetNhi/src/main/webapp/WEB-INF/views/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/java/com/codegym/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/java/com/codegym/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/webapp/WEB-INF/views/home/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/webapp/WEB-INF/views/home/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../luyentap/src/main/webapp/WEB-INF/views/home/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/validatess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/src/entity/employers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/bai tap 2/web/Customer/edit.jsp" afterDir="false" />
@@ -49,6 +157,9 @@
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh/src/com/codegym/service/CustomerSevicelmpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MVC/thuchanh2/src/customersever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MVC/thuchanh2/src/customersever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ORM/blog/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/blog/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ORM/blog/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/blog/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ORM/blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/blog/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/blog/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/customer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/spring-jpa-customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../ORM/spring-jpa-customer-management" afterDir="false" />
@@ -58,6 +169,8 @@
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/java/com/codegym/model/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ORM/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session/counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session/counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session/user/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session/user/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/artifacts/bt_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring MVC/bt/src/controller/Detail.java" afterDir="false" />
@@ -116,6 +229,7 @@
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/applicationContext.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring MVC/web/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai 5/bai tap 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 5/bai tap 1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyAbstractList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyAbstractList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai 6/bai tap 1/src/baitap/codegym/util/MyArrayList.java" afterDir="false" />
@@ -167,8 +281,12 @@
       <change beforePath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/out/production/lop point/point2D.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lop point/src/point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point/src/point2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lop point2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/blogs/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/blogs/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/blogs/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/blogs/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/blogs/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/blogs/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../repository/blogs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/blogs/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../repository/customer-phantrang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/customer-phantrang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/customer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/Data binding/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/controller/EmployeeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring controller/Data binding/src/main/java/model/Employee.java" afterDir="false" />
@@ -215,25 +333,11 @@
       <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/java/com/codegym/service/ProductServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf/product/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate/.idea/validate.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../form/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../form/src/main/java/com/codegym/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../form/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../form/src/main/resources/ValidationMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../form/src/main/resources/ValidationMessages.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../phone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../phone/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/validate-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/validate-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -268,7 +372,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="418">
               <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -281,10 +385,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
                 <element signature="e#374#375#0" expanded="true" />
                 <element signature="e#406#407#0" expanded="true" />
@@ -300,8 +403,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/ApplicationConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="880">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -313,7 +416,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/ApplicationInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -321,8 +424,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="12" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="198">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -331,7 +434,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/result.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="7" lean-forward="true" selection-end-line="7" selection-end-column="7" />
+              <caret line="7" column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -381,7 +484,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -461,7 +564,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -584,17 +687,20 @@
       <workItem from="1563952674855" duration="2037000" />
       <workItem from="1563959179023" duration="4551000" />
       <workItem from="1564127327978" duration="3258000" />
+      <workItem from="1564457632424" duration="15000" />
+      <workItem from="1565580148044" duration="35000" />
+      <workItem from="1565746968935" duration="1262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13160000" />
+    <option name="totallyTimeSpent" value="14472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -604,7 +710,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/ApplicationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        <state relative-caret-position="880">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -655,27 +761,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/ApplicationInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="12" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="7" lean-forward="true" selection-end-line="7" selection-end-column="7" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="418">
           <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -683,13 +775,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
             <element signature="e#374#375#0" expanded="true" />
             <element signature="e#406#407#0" expanded="true" />

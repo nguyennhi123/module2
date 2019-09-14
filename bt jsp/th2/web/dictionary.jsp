@@ -24,8 +24,8 @@ Map<String,String> dictionary = new HashMap<>();
     String seach = request.getParameter("world");
     String result = dictionary.get(seach);
     if (result!=null){
-        out.println("world "+ seach);
-        out.println("result "+result);
+        out.println("world: "+ seach);
+        out.println("result: "+result);
     }else {
         out.println("not found");
     }
